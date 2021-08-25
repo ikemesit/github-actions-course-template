@@ -1,3 +1,3 @@
-# Tic Tac Toe Game
+# Github Actions Practice
 
-Learn GitHub Actions through a fun little game.
+Sample CI/CD flow for Github Actions
